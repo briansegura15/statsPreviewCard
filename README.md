@@ -12,9 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 
 ### Screenshot
-![](images/_C__Users_Brian%20Segura_Desktop_FrontEndMentor_stats-preview-card-component-main_index.html%20(2).png)
-
-![](./Brian%2520Segura_Desktop_FrontEndMentor_stats-preview-card-component-main_index.html%20(2).png)
+![](images/_C__Users_Brian%2520Segura_Desktop_FrontEndMentor_stats-preview-card-component-main_index.html%20(2).png)
 
 ## My process
 
